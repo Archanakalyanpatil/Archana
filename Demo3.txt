@@ -1,0 +1,7 @@
+#include<stdio.>
+{
+    int num1,num2;
+printf("enter two number")
+scanf("%d%d",&num1num2);
+sum=num1+num2;
+    
